@@ -1,7 +1,7 @@
 # 💫 About Me:
 ### Hello! I'm Jithu. S, a passionate developer specializing in AI, automation, and full-stack development. I enjoy building innovative projects that integrate machine learning, web technologies, and user-friendly interfaces.  <br><br>🎮 Gamer & Anime Enthusiast - When I'm not coding, you'll find me gaming or watching anime!  <br><br>🔹 Expertise: AI, Python, JavaScript, React, Streamlit, OCR, Web Scraping, CSS <br>🔹 Passionate About: Building intelligent assistants, automation, and cutting-edge tech  <br>🔹 Recent Project: [Igris AI](https://github.com/jithuzx/igris) - An AI-powered assistant with offline/online chat, OCR and document Q&A.  <br> 
 
-###<br>🔹 My Portfolio: [Jithu Portfolio](https://jithu-portfolio.vercel.app/) <br> 
+### <br>🔹 My Portfolio: [Jithu Portfolio](https://jithu-portfolio.vercel.app/) <br> 
 
 ----
 # 🌐 Socials:
